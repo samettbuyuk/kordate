@@ -1,0 +1,6 @@
+{
+  "name": "Kördate - Derin Bağ ve Gizli Fotoğraf Date Platformu",
+  "description": "Fiziksel özelliklerden önce kalbe ve sohbete odaklanan 3D animasyonlu kör date platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
